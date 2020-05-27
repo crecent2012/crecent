@@ -328,6 +328,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/crecent/2020/05/27/%E4%B8%BA%E4%BA%86%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%8C%E6%88%91%E5%A4%AA%E5%BA%94%E8%AF%A5%E6%9C%89%E7%82%B9%E9%95%BF%E8%BF%9B%E4%BA%86/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/crecent/2020/05/27/%E4%B8%BA%E4%BA%86%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%8C%E6%88%91%E5%A4%AA%E5%BA%94%E8%AF%A5%E6%9C%89%E7%82%B9%E9%95%BF%E8%BF%9B%E4%BA%86/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -477,6 +487,16 @@
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/crecent/2020/05/26/%E6%88%91%E5%96%9C%E6%AC%A2%E8%BF%99%E6%A0%B7%E5%8A%AA%E5%8A%9B%E7%9A%84%E8%87%AA%E5%B7%B1/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/crecent/2020/05/26/%E6%88%91%E5%96%9C%E6%AC%A2%E8%BF%99%E6%A0%B7%E5%8A%AA%E5%8A%9B%E7%9A%84%E8%87%AA%E5%B7%B1/" itemprop="commentCount"></span>
+                </a>
+              </span>
             
           
 
@@ -628,6 +648,16 @@
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/crecent/2020/05/26/%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%8F%98%EF%BC%8C%E5%8F%AA%E6%98%AF%E4%B8%8D%E5%86%8D%E6%98%AF%E6%81%8B%E4%BA%BA/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/crecent/2020/05/26/%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%8F%98%EF%BC%8C%E5%8F%AA%E6%98%AF%E4%B8%8D%E5%86%8D%E6%98%AF%E6%81%8B%E4%BA%BA/" itemprop="commentCount"></span>
+                </a>
+              </span>
             
           
 
@@ -998,6 +1028,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'IzrvcfyjbiEAVFkITfop2A4U-gzGzoHsz',
+        appKey: 'krYfTcHXnerjr0xcHu9BdaN2',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
