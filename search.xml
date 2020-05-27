@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/crecent/2020/05/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>前端开发</category>
+      </categories>
+      <tags>
+        <tag>javascript</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>为了认识你，我太应该有点长进了</title>
     <url>/crecent/2020/05/27/%E4%B8%BA%E4%BA%86%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%8C%E6%88%91%E5%A4%AA%E5%BA%94%E8%AF%A5%E6%9C%89%E7%82%B9%E9%95%BF%E8%BF%9B%E4%BA%86/</url>
     <content><![CDATA[<p>洋洋的新恋情最近让她又兴奋又头疼。对方实在是太优秀了，金融公司法人，开一辆奥迪跑车，自己住一套一百五十平米的房子，每年出国旅行四五次。洋洋刷着他的朋友圈，越看越喜欢，越看越动心。这不就是从天而降的钻石王老五吗，可遇而不可求啊，却偏偏看上自己了。洋洋跑到镜子前，仔仔细细照了一遍，皮肤有没有松弛，眼角有没有细纹……她简直太紧张了，甚至有些焦虑。他真的会喜欢上我吗？会是一时还是一世呢？</p>
@@ -12,6 +36,44 @@
 <p>上大学的时候，同寝室的室友不是在备战各种考试就是积极参加社团活动，只有婷婷每天沉醉她的网络世界里，不是打游戏就是看电影。如果两者都没在做的时候，你听到她最常抱怨的一句话就是，哎呀，我什么时候能遇到我的男神啊。这个问题谁都无法回答她。但是至少在我看来，就算有一天她遇到自己喜欢的人，人家也不一定能喜欢她。为什么？因为她太平凡了，或者说她身边的人都太优秀了，她被显得不仅平凡而且普通。但的确这就是她，最真实的她，不加掩饰的她，不思进取的她，毫无亮点的她。她从来没有为了遇见那个男神而努力提高过自己，没有人会喜欢这样的她。</p>
 <p>婷婷也曾写过“做最好的自己”之类的签名，但她却误解了这句话的意义。做最好的自己，不是放纵和任意。做最好的自己，不是完全为了取悦自己，更不是懒惰的借口。<br>王小波初识李银河后在写给她的信里面写过这样一句话：“因为认识了你，我太应该有点长进了。”</p>
 <p>而我觉得，我们太应该在认识自己所爱的人之前就已经有所长进，只是为了当真的认识他的时候，不心虚。这也是“做最好的自己”真正的意义所在。</p>
+]]></content>
+      <categories>
+        <category>share</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>年轻时候的爱情</title>
+    <url>/crecent/2020/05/26/%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%80%99%E7%9A%84%E7%88%B1%E6%83%85/</url>
+    <content><![CDATA[<img src="/crecent/2020/05/26/%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%80%99%E7%9A%84%E7%88%B1%E6%83%85/1.jpeg" class title="随便写点">
+
+<p>一个周末的中午，我正在麦当劳吃午餐，一个男生和一个女生向我这边走了过来。他们没有穿校服，但一看就是中学生模样。男生端着餐盘，他们坐到了我前面的位置。</p>
+<p>男生皮肤很白，挺拔的鼻梁上架着一副大大的黑色镜框眼镜，头上戴了一顶卡其色鸭舌帽。女生背对着我，我看不到她的表情。头上戴了一顶两边有兔耳朵的白色毛线帽子，造型非常可爱。男生从背包里拿出一本几米的漫画书，然后双手递给女生。女生双手接过，放到胸前的桌面上小心翼翼地翻看。两个人谈论起有关画画的事情。男生又拿出一个拍立得，为女生和书拍下合影，女生说你快吃呀别光顾着看我……</p>
+<a id="more"></a>
+<p>我看到男生的眼睛炯炯有神，闪烁着一种光芒，清澈内敛。我相信他一定很喜欢面前的那个女生。那种只属于他们这个年纪的纯真简单的喜欢。 他在她身上感受到某种魔力，看到她就有一种饱腹感，不再觉得饿也不急着想吃东西。只要能静静地看着她和她絮絮地说着话就好了。</p>
+<p>我也曾在他们那个年纪里遇到过自己喜欢的人。</p>
+<p>那是个靠书信传递爱意的年代。常常是一封信刚发出没几天，回信还未收到，就开始着手写下一封。写信像是记日记似的，迫不及待想把每天发生的大事小事都与对方分享。</p>
+<p>由于信笺的邮寄总是一个很慢的过程，所有的提问和试探都不能够被立刻确认。这种时间上的延宕给人一种无限的想象空间。这和今天的微信有着截然不同的区别，信息来的快去的快，却因为过分便捷往往缺乏真正思考，让感情贬值。</p>
+<p>有一年暑假，我用平时攒下来的零花钱买了一张火车票，坐了一个半小时去看那个和我通信的女生。我按照信封上的地址打听了一路，终于找到了。站在她家院门口，我反复看了好几遍门牌号码，忍不住在心里感慨一番，这就是那些信的终点，也是我思念的地方。</p>
+<p>她非常意外我能来看她，她跟家人撒了谎说跟同学去书店看书。然后去邻居家借了自行车出来，我骑着车带她去公园。那天很热，我的钱去掉回家的车费，只够吃两碗牛肉面。</p>
+<p>我们在湖边的长椅上坐了很久，偶尔起风的时候，她的头发飞舞起来，她伸出右手撩起吹到脸上的头发。我看着她，逆光里感觉她的头发都闪亮着荧光，我好想告诉她，你真美。</p>
+<p>后来我送她回家，路上我问她渴不渴，她说不渴。我还是把车停下来，买了一瓶矿泉水给她。<br>晚上我到家的时候已经快七点钟，家人都问我为什么这么晚才回来。其实我本可以回来的早一点的，只是因为买了那瓶矿泉水，我没有钱坐公交车，于是从火车站走了八站地走回家。</p>
+<p>那时候大人们都说，年轻人不懂得什么是爱。<br>或许他们说的没错。年轻时候的我们，不懂得爱的概念。<br>但我们知道，爱就是，对一个人好。</p>
+]]></content>
+      <categories>
+        <category>share</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>我们什么都没变，只是不再是恋人</title>
+    <url>/crecent/2020/05/26/%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%8F%98%EF%BC%8C%E5%8F%AA%E6%98%AF%E4%B8%8D%E5%86%8D%E6%98%AF%E6%81%8B%E4%BA%BA/</url>
+    <content><![CDATA[<p>丹丹最近和男朋友分手了，尽管丹丹是那么不情愿，想尽办法挽留，但最后男朋友还是毅然决然要和她分开。男朋友最后安慰泣不成声的丹丹说，别不开心，其实我们什么都没变，只是不再是恋人。</p>
+<p>当丹丹把这句话告诉我的时候，正在喝咖啡的我差点笑喷出来。傻丫头，这种话你居然还相信啊。丹丹一脸懵懂地说，他说的我当然信啊。他还说我们可以像以前一样约饭唱歌逛街。看着她天真不谙世事的表情，我实在不忍心告诉她那只是你男朋友怕你继续纠缠下去而说出的哄骗你的话而已。最后我想了想，轻描淡写地说，你不妨按他说的那样，过几天约他出来吃饭，看他会怎么做。</p>
+<a id="more"></a>
+<p>一个星期后，丹丹发微信向我抱怨，前男友最近很忙，周末也要加班，他们一直没见上。我问她，以前你们在一起的时候，他也这么忙吗。丹丹想了想说，以前倒是几乎没有这样过。我说，那就对了。</p>
+<p><strong>我们什么都没变，只是不再是恋人。这句话本身就是一个病句。既然我们不再是恋人，那就意味着我们什么都变了。</strong></p>
+<p>你会变得越来越长时间不和我联络，最后我们会生疏到我只能通过微博和朋友圈知道你去了哪里做了什么。你会认识新的朋友陪你吃饭逛街，你会养成新的习惯，也许你还会开始新的旅行，而我已经无法以一个合理的身份参与其中。</p>
+<p>既然分手了，就意味着你不喜欢我了。所有那些漫漫长夜里的诺言都已成雨中泡影。甚至连当事者都怀疑，当时真的是那样说的吗。更何况分手时候的一句简单安慰呢？</p>
+<p><strong>我们什么都没变，只是不再是恋人。这样的话，初听真让人觉得既感动又温暖，但千万别信以为真。</strong></p>
 ]]></content>
       <categories>
         <category>share</category>
@@ -41,67 +103,5 @@
       <categories>
         <category>share</category>
       </categories>
-  </entry>
-  <entry>
-    <title>我们什么都没变，只是不再是恋人</title>
-    <url>/crecent/2020/05/26/%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%8F%98%EF%BC%8C%E5%8F%AA%E6%98%AF%E4%B8%8D%E5%86%8D%E6%98%AF%E6%81%8B%E4%BA%BA/</url>
-    <content><![CDATA[<p>丹丹最近和男朋友分手了，尽管丹丹是那么不情愿，想尽办法挽留，但最后男朋友还是毅然决然要和她分开。男朋友最后安慰泣不成声的丹丹说，别不开心，其实我们什么都没变，只是不再是恋人。</p>
-<p>当丹丹把这句话告诉我的时候，正在喝咖啡的我差点笑喷出来。傻丫头，这种话你居然还相信啊。丹丹一脸懵懂地说，他说的我当然信啊。他还说我们可以像以前一样约饭唱歌逛街。看着她天真不谙世事的表情，我实在不忍心告诉她那只是你男朋友怕你继续纠缠下去而说出的哄骗你的话而已。最后我想了想，轻描淡写地说，你不妨按他说的那样，过几天约他出来吃饭，看他会怎么做。</p>
-<a id="more"></a>
-<p>一个星期后，丹丹发微信向我抱怨，前男友最近很忙，周末也要加班，他们一直没见上。我问她，以前你们在一起的时候，他也这么忙吗。丹丹想了想说，以前倒是几乎没有这样过。我说，那就对了。</p>
-<p><strong>我们什么都没变，只是不再是恋人。这句话本身就是一个病句。既然我们不再是恋人，那就意味着我们什么都变了。</strong></p>
-<p>你会变得越来越长时间不和我联络，最后我们会生疏到我只能通过微博和朋友圈知道你去了哪里做了什么。你会认识新的朋友陪你吃饭逛街，你会养成新的习惯，也许你还会开始新的旅行，而我已经无法以一个合理的身份参与其中。</p>
-<p>既然分手了，就意味着你不喜欢我了。所有那些漫漫长夜里的诺言都已成雨中泡影。甚至连当事者都怀疑，当时真的是那样说的吗。更何况分手时候的一句简单安慰呢？</p>
-<p><strong>我们什么都没变，只是不再是恋人。这样的话，初听真让人觉得既感动又温暖，但千万别信以为真。</strong></p>
-]]></content>
-      <categories>
-        <category>share</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>年轻时候的爱情</title>
-    <url>/crecent/2020/05/26/%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%80%99%E7%9A%84%E7%88%B1%E6%83%85/</url>
-    <content><![CDATA[<img src="/crecent/2020/05/26/%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%80%99%E7%9A%84%E7%88%B1%E6%83%85/1.jpeg" class title="随便写点">
-
-<p>一个周末的中午，我正在麦当劳吃午餐，一个男生和一个女生向我这边走了过来。他们没有穿校服，但一看就是中学生模样。男生端着餐盘，他们坐到了我前面的位置。</p>
-<p>男生皮肤很白，挺拔的鼻梁上架着一副大大的黑色镜框眼镜，头上戴了一顶卡其色鸭舌帽。女生背对着我，我看不到她的表情。头上戴了一顶两边有兔耳朵的白色毛线帽子，造型非常可爱。男生从背包里拿出一本几米的漫画书，然后双手递给女生。女生双手接过，放到胸前的桌面上小心翼翼地翻看。两个人谈论起有关画画的事情。男生又拿出一个拍立得，为女生和书拍下合影，女生说你快吃呀别光顾着看我……</p>
-<a id="more"></a>
-<p>我看到男生的眼睛炯炯有神，闪烁着一种光芒，清澈内敛。我相信他一定很喜欢面前的那个女生。那种只属于他们这个年纪的纯真简单的喜欢。 他在她身上感受到某种魔力，看到她就有一种饱腹感，不再觉得饿也不急着想吃东西。只要能静静地看着她和她絮絮地说着话就好了。</p>
-<p>我也曾在他们那个年纪里遇到过自己喜欢的人。</p>
-<p>那是个靠书信传递爱意的年代。常常是一封信刚发出没几天，回信还未收到，就开始着手写下一封。写信像是记日记似的，迫不及待想把每天发生的大事小事都与对方分享。</p>
-<p>由于信笺的邮寄总是一个很慢的过程，所有的提问和试探都不能够被立刻确认。这种时间上的延宕给人一种无限的想象空间。这和今天的微信有着截然不同的区别，信息来的快去的快，却因为过分便捷往往缺乏真正思考，让感情贬值。</p>
-<p>有一年暑假，我用平时攒下来的零花钱买了一张火车票，坐了一个半小时去看那个和我通信的女生。我按照信封上的地址打听了一路，终于找到了。站在她家院门口，我反复看了好几遍门牌号码，忍不住在心里感慨一番，这就是那些信的终点，也是我思念的地方。</p>
-<p>她非常意外我能来看她，她跟家人撒了谎说跟同学去书店看书。然后去邻居家借了自行车出来，我骑着车带她去公园。那天很热，我的钱去掉回家的车费，只够吃两碗牛肉面。</p>
-<p>我们在湖边的长椅上坐了很久，偶尔起风的时候，她的头发飞舞起来，她伸出右手撩起吹到脸上的头发。我看着她，逆光里感觉她的头发都闪亮着荧光，我好想告诉她，你真美。</p>
-<p>后来我送她回家，路上我问她渴不渴，她说不渴。我还是把车停下来，买了一瓶矿泉水给她。<br>晚上我到家的时候已经快七点钟，家人都问我为什么这么晚才回来。其实我本可以回来的早一点的，只是因为买了那瓶矿泉水，我没有钱坐公交车，于是从火车站走了八站地走回家。</p>
-<p>那时候大人们都说，年轻人不懂得什么是爱。<br>或许他们说的没错。年轻时候的我们，不懂得爱的概念。<br>但我们知道，爱就是，对一个人好。</p>
-]]></content>
-      <categories>
-        <category>share</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/crecent/2020/05/21/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>前端开发</category>
-      </categories>
-      <tags>
-        <tag>javascript</tag>
-      </tags>
   </entry>
 </search>
