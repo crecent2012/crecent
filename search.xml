@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/crecent/2020/05/21/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+    <title>为了认识你，我太应该有点长进了</title>
+    <url>/crecent/2020/05/27/%E4%B8%BA%E4%BA%86%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%8C%E6%88%91%E5%A4%AA%E5%BA%94%E8%AF%A5%E6%9C%89%E7%82%B9%E9%95%BF%E8%BF%9B%E4%BA%86/</url>
+    <content><![CDATA[<p>洋洋的新恋情最近让她又兴奋又头疼。对方实在是太优秀了，金融公司法人，开一辆奥迪跑车，自己住一套一百五十平米的房子，每年出国旅行四五次。洋洋刷着他的朋友圈，越看越喜欢，越看越动心。这不就是从天而降的钻石王老五吗，可遇而不可求啊，却偏偏看上自己了。洋洋跑到镜子前，仔仔细细照了一遍，皮肤有没有松弛，眼角有没有细纹……她简直太紧张了，甚至有些焦虑。他真的会喜欢上我吗？会是一时还是一世呢？</p>
 <a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>前端开发</category>
-      </categories>
-      <tags>
-        <tag>javascript</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我们什么都没变，只是不再是恋人</title>
-    <url>/crecent/2020/05/26/%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%8F%98%EF%BC%8C%E5%8F%AA%E6%98%AF%E4%B8%8D%E5%86%8D%E6%98%AF%E6%81%8B%E4%BA%BA/</url>
-    <content><![CDATA[<p>丹丹最近和男朋友分手了，尽管丹丹是那么不情愿，想尽办法挽留，但最后男朋友还是毅然决然要和她分开。男朋友最后安慰泣不成声的丹丹说，别不开心，其实我们什么都没变，只是不再是恋人。</p>
-<a id="more"></a>
-<p>当丹丹把这句话告诉我的时候，正在喝咖啡的我差点笑喷出来。傻丫头，这种话你居然还相信啊。丹丹一脸懵懂地说，他说的我当然信啊。他还说我们可以像以前一样约饭唱歌逛街。看着她天真不谙世事的表情，我实在不忍心告诉她那只是你男朋友怕你继续纠缠下去而说出的哄骗你的话而已。最后我想了想，轻描淡写地说，你不妨按他说的那样，过几天约他出来吃饭，看他会怎么做。</p>
-<p>一个星期后，丹丹发微信向我抱怨，前男友最近很忙，周末也要加班，他们一直没见上。我问她，以前你们在一起的时候，他也这么忙吗。丹丹想了想说，以前倒是几乎没有这样过。我说，那就对了。</p>
-<p><strong>我们什么都没变，只是不再是恋人。这句话本身就是一个病句。既然我们不再是恋人，那就意味着我们什么都变了。</strong></p>
-<p>你会变得越来越长时间不和我联络，最后我们会生疏到我只能通过微博和朋友圈知道你去了哪里做了什么。你会认识新的朋友陪你吃饭逛街，你会养成新的习惯，也许你还会开始新的旅行，而我已经无法以一个合理的身份参与其中。</p>
-<p>既然分手了，就意味着你不喜欢我了。所有那些漫漫长夜里的诺言都已成雨中泡影。甚至连当事者都怀疑，当时真的是那样说的吗。更何况分手时候的一句简单安慰呢？</p>
-<p><strong>我们什么都没变，只是不再是恋人。这样的话，初听真让人觉得既感动又温暖，但千万别信以为真。</strong></p>
+<p>也许天底下所有的女生都做过邂逅白马王子的美梦，但是王子的白马总是走的很慢，真的不一定等到。即便真的等到，那等待的过程也必定是漫长且难熬的。更多人在等待中自暴自弃放任自己的任性。只有少数人选择学习更多的技能充实自己，比如去学习游泳。</p>
+<p>蔡康永说过，15岁觉得游泳难，放弃游泳，到18岁遇到一个你喜欢的人约你去游泳，你只好说“我不会耶”……人生前期越嫌麻烦，越懒得学，后来就越可能错过让你动心的人和事，错过新风景。</p>
+<p>就像洋洋最近处境这样，因为担心自己不够优秀，留不住对方，于是临阵报佛脚，开始练习英语。因为男朋友喜欢澳洲每年都会去，如果自己口语足够好，自然会加分。当她得知男朋友爱吃日本料理，于是买来一堆做寿司的工具和书籍，在家不断勤学苦练。所有的这些其实都曾是洋洋以前就想要学习的事情，只是因为没有动力，所以一再推迟。现在，钻石王老五的出现，让她突然有了十足的劲头去努力学习。只是想做好一件事可没有速成的办法，想一下子就用自己的厨艺栓住男朋友的胃口，哪能那么简单。<br>这天晚上，给男朋友做的寿司又失败了。看着厨房一片狼藉，洋洋真是又气又恨，气自己太笨了，恨自己为什么不早点学。回想着自己以前大把大把的时间都浪费在一些毫无意义的社交，洋洋真是欲哭无泪。</p>
+<p>我看过许多人的QQ签名，微博签名，都写的同样一句话：做最好的自己。这句话一度很流行，流行到了某个阶段就成了泛滥和误读。你有没有认真地思考过，我们为什么要做最好的自己，以及做最好的自己的目的到底是什么。</p>
+<p>上大学的时候，同寝室的室友不是在备战各种考试就是积极参加社团活动，只有婷婷每天沉醉她的网络世界里，不是打游戏就是看电影。如果两者都没在做的时候，你听到她最常抱怨的一句话就是，哎呀，我什么时候能遇到我的男神啊。这个问题谁都无法回答她。但是至少在我看来，就算有一天她遇到自己喜欢的人，人家也不一定能喜欢她。为什么？因为她太平凡了，或者说她身边的人都太优秀了，她被显得不仅平凡而且普通。但的确这就是她，最真实的她，不加掩饰的她，不思进取的她，毫无亮点的她。她从来没有为了遇见那个男神而努力提高过自己，没有人会喜欢这样的她。</p>
+<p>婷婷也曾写过“做最好的自己”之类的签名，但她却误解了这句话的意义。做最好的自己，不是放纵和任意。做最好的自己，不是完全为了取悦自己，更不是懒惰的借口。<br>王小波初识李银河后在写给她的信里面写过这样一句话：“因为认识了你，我太应该有点长进了。”</p>
+<p>而我觉得，我们太应该在认识自己所爱的人之前就已经有所长进，只是为了当真的认识他的时候，不心虚。这也是“做最好的自己”真正的意义所在。</p>
 ]]></content>
       <categories>
         <category>share</category>
@@ -67,6 +43,22 @@
       </categories>
   </entry>
   <entry>
+    <title>我们什么都没变，只是不再是恋人</title>
+    <url>/crecent/2020/05/26/%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%8F%98%EF%BC%8C%E5%8F%AA%E6%98%AF%E4%B8%8D%E5%86%8D%E6%98%AF%E6%81%8B%E4%BA%BA/</url>
+    <content><![CDATA[<p>丹丹最近和男朋友分手了，尽管丹丹是那么不情愿，想尽办法挽留，但最后男朋友还是毅然决然要和她分开。男朋友最后安慰泣不成声的丹丹说，别不开心，其实我们什么都没变，只是不再是恋人。</p>
+<a id="more"></a>
+<p>当丹丹把这句话告诉我的时候，正在喝咖啡的我差点笑喷出来。傻丫头，这种话你居然还相信啊。丹丹一脸懵懂地说，他说的我当然信啊。他还说我们可以像以前一样约饭唱歌逛街。看着她天真不谙世事的表情，我实在不忍心告诉她那只是你男朋友怕你继续纠缠下去而说出的哄骗你的话而已。最后我想了想，轻描淡写地说，你不妨按他说的那样，过几天约他出来吃饭，看他会怎么做。</p>
+<p>一个星期后，丹丹发微信向我抱怨，前男友最近很忙，周末也要加班，他们一直没见上。我问她，以前你们在一起的时候，他也这么忙吗。丹丹想了想说，以前倒是几乎没有这样过。我说，那就对了。</p>
+<p><strong>我们什么都没变，只是不再是恋人。这句话本身就是一个病句。既然我们不再是恋人，那就意味着我们什么都变了。</strong></p>
+<p>你会变得越来越长时间不和我联络，最后我们会生疏到我只能通过微博和朋友圈知道你去了哪里做了什么。你会认识新的朋友陪你吃饭逛街，你会养成新的习惯，也许你还会开始新的旅行，而我已经无法以一个合理的身份参与其中。</p>
+<p>既然分手了，就意味着你不喜欢我了。所有那些漫漫长夜里的诺言都已成雨中泡影。甚至连当事者都怀疑，当时真的是那样说的吗。更何况分手时候的一句简单安慰呢？</p>
+<p><strong>我们什么都没变，只是不再是恋人。这样的话，初听真让人觉得既感动又温暖，但千万别信以为真。</strong></p>
+]]></content>
+      <categories>
+        <category>share</category>
+      </categories>
+  </entry>
+  <entry>
     <title>年轻时候的爱情</title>
     <url>/crecent/2020/05/26/%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%80%99%E7%9A%84%E7%88%B1%E6%83%85/</url>
     <content><![CDATA[<img src="/crecent/2020/05/26/%E5%B9%B4%E8%BD%BB%E6%97%B6%E5%80%99%E7%9A%84%E7%88%B1%E6%83%85/1.jpeg" class title="你好，青春">
@@ -89,20 +81,28 @@
       </categories>
   </entry>
   <entry>
-    <title>为了认识你，我太应该有点长进了</title>
-    <url>/crecent/2020/05/27/%E4%B8%BA%E4%BA%86%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%8C%E6%88%91%E5%A4%AA%E5%BA%94%E8%AF%A5%E6%9C%89%E7%82%B9%E9%95%BF%E8%BF%9B%E4%BA%86/</url>
-    <content><![CDATA[<p>洋洋的新恋情最近让她又兴奋又头疼。对方实在是太优秀了，金融公司法人，开一辆奥迪跑车，自己住一套一百五十平米的房子，每年出国旅行四五次。洋洋刷着他的朋友圈，越看越喜欢，越看越动心。这不就是从天而降的钻石王老五吗，可遇而不可求啊，却偏偏看上自己了。洋洋跑到镜子前，仔仔细细照了一遍，皮肤有没有松弛，眼角有没有细纹……她简直太紧张了，甚至有些焦虑。他真的会喜欢上我吗？会是一时还是一世呢？</p>
+    <title>Hello World</title>
+    <url>/crecent/2020/05/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <a id="more"></a>
-<p>也许天底下所有的女生都做过邂逅白马王子的美梦，但是王子的白马总是走的很慢，真的不一定等到。即便真的等到，那等待的过程也必定是漫长且难熬的。更多人在等待中自暴自弃放任自己的任性。只有少数人选择学习更多的技能充实自己，比如去学习游泳。</p>
-<p>蔡康永说过，15岁觉得游泳难，放弃游泳，到18岁遇到一个你喜欢的人约你去游泳，你只好说“我不会耶”……人生前期越嫌麻烦，越懒得学，后来就越可能错过让你动心的人和事，错过新风景。</p>
-<p>就像洋洋最近处境这样，因为担心自己不够优秀，留不住对方，于是临阵报佛脚，开始练习英语。因为男朋友喜欢澳洲每年都会去，如果自己口语足够好，自然会加分。当她得知男朋友爱吃日本料理，于是买来一堆做寿司的工具和书籍，在家不断勤学苦练。所有的这些其实都曾是洋洋以前就想要学习的事情，只是因为没有动力，所以一再推迟。现在，钻石王老五的出现，让她突然有了十足的劲头去努力学习。只是想做好一件事可没有速成的办法，想一下子就用自己的厨艺栓住男朋友的胃口，哪能那么简单。<br>这天晚上，给男朋友做的寿司又失败了。看着厨房一片狼藉，洋洋真是又气又恨，气自己太笨了，恨自己为什么不早点学。回想着自己以前大把大把的时间都浪费在一些毫无意义的社交，洋洋真是欲哭无泪。</p>
-<p>我看过许多人的QQ签名，微博签名，都写的同样一句话：做最好的自己。这句话一度很流行，流行到了某个阶段就成了泛滥和误读。你有没有认真地思考过，我们为什么要做最好的自己，以及做最好的自己的目的到底是什么。</p>
-<p>上大学的时候，同寝室的室友不是在备战各种考试就是积极参加社团活动，只有婷婷每天沉醉她的网络世界里，不是打游戏就是看电影。如果两者都没在做的时候，你听到她最常抱怨的一句话就是，哎呀，我什么时候能遇到我的男神啊。这个问题谁都无法回答她。但是至少在我看来，就算有一天她遇到自己喜欢的人，人家也不一定能喜欢她。为什么？因为她太平凡了，或者说她身边的人都太优秀了，她被显得不仅平凡而且普通。但的确这就是她，最真实的她，不加掩饰的她，不思进取的她，毫无亮点的她。她从来没有为了遇见那个男神而努力提高过自己，没有人会喜欢这样的她。</p>
-<p>婷婷也曾写过“做最好的自己”之类的签名，但她却误解了这句话的意义。做最好的自己，不是放纵和任意。做最好的自己，不是完全为了取悦自己，更不是懒惰的借口。<br>王小波初识李银河后在写给她的信里面写过这样一句话：“因为认识了你，我太应该有点长进了。”</p>
-<p>而我觉得，我们太应该在认识自己所爱的人之前就已经有所长进，只是为了当真的认识他的时候，不心虚。这也是“做最好的自己”真正的意义所在。</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
       <categories>
-        <category>share</category>
+        <category>前端开发</category>
       </categories>
+      <tags>
+        <tag>javascript</tag>
+      </tags>
   </entry>
 </search>
